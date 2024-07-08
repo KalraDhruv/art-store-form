@@ -1,6 +1,7 @@
 <?php
 
-
+$genres = array("Abstract","Baroque","Gothic","Renaissance");
+$subjects = array("Animals","Landscape","People");
 
 $links = [
    [ "url"=>"index.php", "label"=>"Home"],
