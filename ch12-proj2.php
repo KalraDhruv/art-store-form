@@ -17,7 +17,7 @@ include 'data.inc.php';
 <?php include 'header.inc.php'; ?>
     
 <main>
-<form class="form" id="mainForm">
+<form method="POST" action="art-process.php" class="form" id="mainForm">
    <fieldset class="form__panel">
       <legend class="form__heading">Edit Art Work Details</legend>
         <p class="form__row">
